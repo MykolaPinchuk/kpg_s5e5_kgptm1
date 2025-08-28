@@ -4,7 +4,7 @@ You can use kaggle api to pull data for this competition (competition_name = 'pl
 
 The main objective of this project is to create POC fast. Do not worry about getting model with very high performance. I suggest using a small subsample to speed up model training. 
 
-You are not allowed to access Kaggle website.
+You are not allowed to access Kaggle website. You are not allowed to access any code from other people for this specific competition to prevent cheating.
 
 After getting human approval on implementing high-level plan, go ahead and do it. Do not ask human any questions. The final output of this project are predictions on a test set which human will submit for evaluation to Kaggle.
 
