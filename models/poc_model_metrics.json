@@ -1,0 +1,6 @@
+{
+  "val_rmsle": 0.08884471449267173,
+  "n_train": 8000,
+  "n_val": 2000,
+  "model_path": "./models/poc_model.pkl"
+}
