@@ -1,0 +1,10 @@
+{
+  "ensemble_models": [
+    "models/xgb_B.pkl",
+    "models/xgb_C.pkl"
+  ],
+  "n_models": 2,
+  "n_rows": 10000,
+  "out_path": "submissions/ensemble_subsample_preds.csv",
+  "elapsed_seconds": 0.20236754417419434
+}
