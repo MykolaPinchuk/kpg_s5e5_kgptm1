@@ -4,5 +4,6 @@ kaggle.json
 .venv
 submission
 submissions
+models/**.csv
 
 

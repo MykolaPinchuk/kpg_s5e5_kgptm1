@@ -1,0 +1,41 @@
+{
+  "val_rmsle": null,
+  "val_rmse_log": null,
+  "n_train": 750000,
+  "n_val": 0,
+  "best_iteration": 600,
+  "hyperparams": {
+    "n_estimators": 600,
+    "learning_rate": 0.03,
+    "max_depth": 8,
+    "min_child_weight": 3.0,
+    "subsample": 0.8,
+    "colsample_bytree": 0.7,
+    "reg_alpha": 0.0,
+    "reg_lambda": 2.0,
+    "gamma": 0.0
+  },
+  "n_features": 15,
+  "feature_columns": [
+    "Age",
+    "Height",
+    "Weight",
+    "Duration",
+    "Heart_Rate",
+    "Body_Temp",
+    "Sex",
+    "numeric_count",
+    "numeric_sum",
+    "numeric_mean",
+    "numeric_std",
+    "numeric_min",
+    "numeric_max",
+    "numeric_range",
+    "row_num_missing"
+  ],
+  "preprocessor_path": "models/final_exp02_domain_C_preproc.pkl",
+  "model_path": "models/final_exp02_domain_C.pkl",
+  "pred_out": "models/final_exp02_domain_C_preds.csv",
+  "elapsed_seconds": 10.372562646865845,
+  "random_state": 42
+}
